@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PowerOf2 {
+ class PowerOf2 {
     public static void main(String[] args) {
         Scanner scanObj=new Scanner (System.in);
 
