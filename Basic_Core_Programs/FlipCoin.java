@@ -1,6 +1,6 @@
 
 import java.util.*;
-class Prog1{
+class FlipCoin{
     public static void main(String[] args)
     {
       Scanner scanObj = new Scanner (System.in);
